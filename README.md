@@ -1,4 +1,4 @@
-# groceryshop
+# Habit tracker
 
 A new Flutter project.
 
