@@ -1,16 +1,3 @@
 # Habit tracker
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This habit tracker allows users to track their daily activities or goals, such as “Read” and “Run.” The green highlight and checkmarks visually indicate completed tasks, while unmarked boxes show pending tasks. It’s a simple and clean design to help users maintain their habits and visually track progress over time.
